@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:005BAC,100:4F8EF7&height=180&section=header&text=Jin%20Hee%20Won&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%C2%B7%20AI%20Service%20Developer&descSize=18&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:005BAC,100:4F8EF7&height=180&section=header&text=Jin%20Hee%20Won&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20with%20Web%20and%20AI&descSize=18&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=005BAC&center=true&vCenter=true&width=640&lines=Computer+Engineering+%40+Handong+Global+University;React+%2F+Next.js+%2F+TypeScript+Frontend;LangChain+%2F+LangGraph+%2F+RAG+AI+Services;3x+Grand+Prize+Winner+%F0%9F%8F%86)](https://github.com/JinHeeWond)
 
