@@ -4,14 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=005BAC&center=true&vCenter=true&width=640&lines=Computer+Engineering+%40+Handong+Global+University;React+%2F+Next.js+%2F+TypeScript+Frontend;LangChain+%2F+LangGraph+%2F+RAG+AI+Services;3x+Grand+Prize+Winner+%F0%9F%8F%86)](https://github.com/JinHeeWond)
 
-사용자 문제를 데이터와 기술로 해결하는 서비스를 만듭니다.  
-AI 기반 서비스 개발과 실제 업무 흐름을 고려한 시스템 구현에 관심이 있습니다.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-JinHeeWond-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JinHeeWond)
-[![Handong Global University](https://img.shields.io/badge/Handong_Global_University-Computer_Engineering-005BAC?style=for-the-badge)](https://www.handong.edu)
-[![LikeLion](https://img.shields.io/badge/멋쟁이사자처럼-13기_Frontend-FF7710?style=for-the-badge)](https://github.com/LikeLionHGU)
+I build services that solve real user problems with data and technology.  
+Interested in AI-powered service development and systems designed around real-world workflows.
 
 </div>
 
@@ -20,23 +14,6 @@ AI 기반 서비스 개발과 실제 업무 흐름을 고려한 시스템 구현
 ## 🏆 Awards & Honors
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🥇_최우수상-3회-FFD700?style=for-the-badge&labelColor=1F2937" />
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🥈_우수상-1회-C0C0C0?style=for-the-badge&labelColor=1F2937" />
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🥉_장려상-1회-CD7F32?style=for-the-badge&labelColor=1F2937" />
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🎯_지원사업_선정-2건-4F8EF7?style=for-the-badge&labelColor=1F2937" />
-    </td>
-  </tr>
-</table>
 
 | | 일자 | 수상 / 선정 | 주관 | 관련 프로젝트 |
 |:---:|:---:|:---|:---|:---|
@@ -176,8 +153,8 @@ Azure Kinect로 수집한 수면 자세 데이터를 사용자별로 조회하�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JinHeeWond&show_icons=true&hide_border=true&title_color=005BAC&icon_color=4F8EF7&text_color=333" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeeWond&layout=compact&hide_border=true&title_color=005BAC&text_color=333" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JinHeeWond&show_icons=true&hide_border=true&title_color=005BAC&icon_color=4F8EF7&text_color=333" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JinHeeWond&layout=compact&hide_border=true&title_color=005BAC&text_color=333" height="165" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=JinHeeWond&hide_border=true&ring=005BAC&fire=4F8EF7&currStreakLabel=005BAC" alt="GitHub streak" />
 
