@@ -9,7 +9,7 @@
     </linearGradient>
     <clipPath id="card"><rect x="0" y="0" width="1200" height="300" rx="16"/></clipPath>
     <style>
-      .name { font: 700 64px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; letter-spacing: -1.5px; }
+      .name { font: 700 40px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; letter-spacing: -0.5px; }
       .kor  { font: 500 20px -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; fill: #656d76; letter-spacing: 6px; }
       .sub  { font: 400 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
       .meta { font: 500 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #656d76; letter-spacing: 1px; }
@@ -38,10 +38,9 @@
   <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#d0d7de"/>
 
   <g transform="translate(64, 0)">
-    <text class="kor" x="2" y="92">진 희 원</text>
-    <text class="name" x="0" y="160">Jin Hee Won</text>
-    <text class="sub" x="2" y="202">Building things with Web and AI</text>
-    <text class="meta" x="2" y="248">HANDONG GLOBAL UNIVERSITY · COMPUTER ENGINEERING</text>
-    <text class="tag" x="2" y="272">// frontend · llm agents · product</text>
+    <text class="name" x="0" y="118">Jin Hee Won</text>
+    <text class="sub" x="2" y="160">Building things with Web and AI</text>
+    <text class="meta" x="2" y="208">HANDONG GLOBAL UNIVERSITY · COMPUTER ENGINEERING</text>
+    <text class="tag" x="2" y="232">// frontend · llm agents · product</text>
   </g>
 </svg>
