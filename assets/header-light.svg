@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Jin Hee Won">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#d8dee4"/>
+    </pattern>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d4601c"/>
+      <stop offset="1" stop-color="#b08800"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="300" rx="16"/></clipPath>
+    <style>
+      .name { font: 700 64px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; letter-spacing: -1.5px; }
+      .kor  { font: 500 20px -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; fill: #656d76; letter-spacing: 6px; }
+      .sub  { font: 400 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+      .meta { font: 500 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #656d76; letter-spacing: 1px; }
+      .tag  { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #d4601c; letter-spacing: 1px; }
+      .ring { fill: none; stroke: #d4601c; stroke-width: 2; opacity: .55; transform-origin: 1010px 150px; animation: spin 40s linear infinite; }
+      .ring2 { animation-direction: reverse; animation-duration: 55s; stroke: #b08800; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#f6f8fa"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <rect x="0" y="0" width="8" height="300" fill="url(#bar)"/>
+
+    <!-- orbit motif -->
+    <g>
+      <circle class="ring" cx="1010" cy="150" r="96" stroke-dasharray="4 10"/>
+      <circle class="ring ring2" cx="1010" cy="150" r="64" stroke-dasharray="2 8"/>
+      <circle cx="1010" cy="150" r="30" fill="#d4601c" opacity=".9"/>
+      <circle cx="1010" cy="150" r="30" fill="none" stroke="#b08800" stroke-width="2" opacity=".6"/>
+      <circle cx="1106" cy="150" r="6" fill="#b08800"/>
+      <circle cx="946" cy="150" r="4" fill="#d4601c"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#d0d7de"/>
+
+  <g transform="translate(64, 0)">
+    <text class="kor" x="2" y="92">진 희 원</text>
+    <text class="name" x="0" y="160">Jin Hee Won</text>
+    <text class="sub" x="2" y="202">Building things with Web and AI</text>
+    <text class="meta" x="2" y="248">HANDONG GLOBAL UNIVERSITY · COMPUTER ENGINEERING</text>
+    <text class="tag" x="2" y="272">// frontend · llm agents · product</text>
+  </g>
+</svg>

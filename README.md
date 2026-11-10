@@ -1,8 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:005BAC,100:4F8EF7&height=180&section=header&text=Jin%20Hee%20Won&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20with%20Web%20and%20AI&descSize=18&descAlignY=58)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Jin Hee Won" src="assets/header-light.svg" width="100%">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=005BAC&center=true&vCenter=true&width=640&lines=Computer+Engineering+%40+Handong+Global+University;React+%2F+Next.js+%2F+TypeScript+Frontend;LangChain+%2F+LangGraph+%2F+RAG+AI+Services;3x+Grand+Prize+Winner+%F0%9F%8F%86)](https://github.com/JinHeeWond)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=F0883E&center=true&vCenter=true&width=640&lines=Computer+Engineering+%40+Handong+Global+University;React+%2F+Next.js+%2F+TypeScript+Frontend;LangChain+%2F+LangGraph+%2F+RAG+AI+Services;3x+Grand+Prize+Winner+%F0%9F%8F%86)](https://github.com/JinHeeWond)
 
 I build services that solve real user problems with data and technology.  
 Interested in AI-powered service development and systems designed around real-world workflows.
@@ -151,8 +154,4 @@ Azure Kinect로 수집한 수면 자세 데이터를 사용자별로 조회하�
 
 <br/>
 
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:005BAC&height=100&section=footer)
-
-</div>
+<div align="center"><sub>Thanks for visiting 🙂</sub></div>
