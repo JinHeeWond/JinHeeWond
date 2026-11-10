@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Jin Hee Won" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
+  <img alt="Jin Hee Won" src="assets/banner-light-v2.svg" width="100%">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=F0883E&center=true&vCenter=true&width=640&lines=Computer+Engineering+%40+Handong+Global+University;React+%2F+Next.js+%2F+TypeScript+Frontend;LangChain+%2F+LangGraph+%2F+RAG+AI+Services;3x+Grand+Prize+Winner+%F0%9F%8F%86)](https://github.com/JinHeeWond)
