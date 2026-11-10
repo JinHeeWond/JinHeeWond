@@ -149,22 +149,6 @@ Azure Kinect로 수집한 수면 자세 데이터를 사용자별로 조회하�
 
 <br/>
 
-## 🌳 Coding Test · CodeTree
-
-<div align="center">
-
-[![CodeTree](https://banner.codetree.ai/v1/banner/JinHeeWond)](https://www.codetree.ai/profiles/JinHeeWond)
-
-매일 CodeTree에서 알고리즘 문제를 풀고, 풀이는 GitHub에 자동으로 동기화됩니다.
-
-[![CodeTree Solutions](https://img.shields.io/badge/CodeTree_Solutions-C%2B%2B_%7C_Auto_Sync-2E7D32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JinHeeWond/CodeTree)
-
-<img src="https://streak-stats.demolab.com/?user=JinHeeWond&hide_border=true&ring=005BAC&fire=4F8EF7&currStreakLabel=005BAC" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:005BAC&height=100&section=footer)
